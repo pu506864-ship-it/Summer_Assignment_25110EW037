@@ -24,4 +24,5 @@ for ( i=1;i<=sz;i++)
 }
 cout<<"\ngreteast common divisor is::"<<GCD<<endl;
 return 0;
+
 }

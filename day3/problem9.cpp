@@ -3,13 +3,14 @@ using namespace std;
 int main()
 {
 int num,count=0,i=1;
-cout<<"enter a number too check it is prim or not :: ";
+cout<<"enter a number too check it is prime or not :: ";
 cin>>num;
 while (i<=num)
 {
    if (num%i==0)
    {
    count++;
+   
 
    }
 
